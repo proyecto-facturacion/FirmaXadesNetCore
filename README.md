@@ -20,5 +20,3 @@ CARACTERÍSTICAS
 - Soporte para co-firmas y contrafirmas.
 
 - Soporte para métodos de firma RSA-SHA1, RSA-SHA256 y RSA-SHA512.
-
-Dentro de la solución se encuentra un proyecto con ejemplos de uso de la librería. Algunos de los ejemplos hacen uso del servidor de sellado de tiempo de la ACCV.
