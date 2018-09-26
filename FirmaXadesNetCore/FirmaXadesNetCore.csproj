@@ -2,6 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Verdun Labs</Authors>
+    <Company>TelviSoft CR</Company>
+    <RepositoryUrl>https://github.com/newverdun/FirmaXadesNetCore</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/newverdun/FirmaXadesNetCore/blob/master/License/LICENSE.txt</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/newverdun/FirmaXadesNetCore</PackageProjectUrl>
+    <PackageIconUrl>https://docs.microsoft.com/es-es/dotnet/images/hub/netcore.svg</PackageIconUrl>
+    <Description>FirmaXadesNetCore es una adaptacion a .NET Standard 2.0
+
+FirmaXadesNet es una librería desarrollada en C# para la generación de firmas XAdES realizada por el Dpto. de Nuevas Tecnologías de la Concejalía de Urbanismo del Ayuntamiento de Cartagena, la cual está basada en una modificación del XAdES starter kit desarrollado por Microsoft Francia.
+</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
