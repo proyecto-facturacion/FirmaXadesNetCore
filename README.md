@@ -1,5 +1,6 @@
 FirmaXadesNetCore
 =============
+![.NET Core](https://github.com/newverdun/FirmaXadesNetCore/workflows/.NET%20Core/badge.svg?branch=master)
 
 INTRODUCCIÓN
 -------------
